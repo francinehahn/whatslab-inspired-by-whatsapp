@@ -11,7 +11,7 @@
 
 ## Images:
 ![Print1](./src/img/print.png)
-![Print2](./src/img/print2.png)
+![Print2](./src/img/print2.jpeg)
 
-### Link do surge:
+### Link to access the project:
 http://mighty-invention.surge.sh/
