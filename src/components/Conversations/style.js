@@ -24,7 +24,7 @@ export const Container = styled.section `
 export const Top = styled.aside `
     display: flex;
     align-items: center;
-    gap: 10vw;
+    gap: 11vw;
     background-color: #f6f6f6;
     padding: 1vh;
     border-right: 1px solid lightgrey;
@@ -33,7 +33,7 @@ export const Top = styled.aside `
         gap: 1.5vw;
         img {
             @media screen and (min-width: 1000px) {
-                width: 15%;
+                width: 16%;
             }
             @media screen and (min-width: 800px) and (max-width: 1000px) {
                 width: 20%;
@@ -49,13 +49,13 @@ export const UserImg = styled.img `
     padding-left: 1vw;
     border-radius: 50%;
     @media screen and (min-width: 1200px) {
-        width: 13%;
+        width: 20%;
     }
     @media screen and (min-width: 900px) and (max-width: 1200px) {
-        width: 16%;
+        width: 19%;
     }
-    @media screen and (min-width: 500px) and (max-width: 900px) {
-        width: 18%;
+    @media screen and (min-width: 320px) and (max-width: 900px) {
+        width: 21%;
     }
 `
 
@@ -75,7 +75,7 @@ export const Form = styled.div `
             width: 7%;
         }
         input {
-            width: 10vw;
+            width: 17vw;
             font-size: 13px;
             border: none;
             background-color: #f6f6f6;

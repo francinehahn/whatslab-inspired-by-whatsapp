@@ -19,8 +19,11 @@ export const HeaderSection = styled.header `
             img {
                 border-radius: 50%;
                 margin-left: 1.5vw;
-                @media screen and (min-width: 1200px) {
+                @media screen and (min-width: 1440px) {
                     width: 5%;
+                }
+                @media screen and (min-width: 1200px) and (max-width: 1440px) {
+                    width: 5.5%;
                 }
                 @media screen and (min-width: 900px) and (max-width: 1200px) {
                     width: 6%;
