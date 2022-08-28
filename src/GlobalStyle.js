@@ -73,9 +73,7 @@ export const SmallerContainer = styled.section `
         }
         button {
             border: none;
-            border-radius: 5px;
-            font-size: 16px;
-            background-color: white;
+            background-color: transparent;
             cursor: pointer;
             width: 10%;
             img {
@@ -83,10 +81,10 @@ export const SmallerContainer = styled.section `
                     width: 40%;
                 }
                 @media screen and (min-width: 550px) and (max-width: 900px) {
-                    width: 50%;
+                    width: 60%;
                 }
                 @media screen and (min-width: 320px) and (max-width: 550px) {
-                    width: 70%;
+                    width: 80%;
                 }
             }
         }
