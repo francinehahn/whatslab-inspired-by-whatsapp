@@ -16,7 +16,11 @@ This project is a messaging app that was inspired by whatsapp.
 http://mighty-invention.surge.sh/
 
 ## Images:
+
+### Desktop version
 ![Print1](./src/img/print.png)
+
+### Mobile version
 <img src="./src/img/print2.jpeg" width="40%"/>
 
 
