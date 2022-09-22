@@ -15,6 +15,18 @@ This project is a messaging app that was inspired by whatsapp.
 ## Link to access the project:
 http://mighty-invention.surge.sh/
 
+## Installing
+<pre>
+  <code>
+    $ git clone https://github.com/francinehahn/whatslab-inspired-by-whatsapp.git
+    cd whatslab-inspired-by-whatsapp
+  </code>
+</pre>
+
+<pre>
+  <code>$ npm install</code>
+</pre>
+
 ## Images:
 
 ### Desktop version
