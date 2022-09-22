@@ -19,8 +19,11 @@ http://mighty-invention.surge.sh/
 <pre>
   <code>
     $ git clone https://github.com/francinehahn/whatslab-inspired-by-whatsapp.git
-    cd whatslab-inspired-by-whatsapp
   </code>
+</pre>
+
+<pre>
+  <code>$ cd whatslab-inspired-by-whatsapp</code>
 </pre>
 
 <pre>
