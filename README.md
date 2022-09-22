@@ -17,9 +17,7 @@ http://mighty-invention.surge.sh/
 
 ## Installing
 <pre>
-  <code>
-    $ git clone https://github.com/francinehahn/whatslab-inspired-by-whatsapp.git
-  </code>
+  <code>$ git clone https://github.com/francinehahn/whatslab-inspired-by-whatsapp.git</code>
 </pre>
 
 <pre>
