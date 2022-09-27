@@ -9,7 +9,7 @@ This project is a messaging app that was inspired by whatsapp.
 * Press the enter key to send the message;
 * When typing the name 'Eu' or 'eu', the message is rendered on the right side of the screen with a green background;
 * When typing any other name, the message is rendered on the left side of the screen with a white background;
-* When hovering over he message, a button appears. If the user clicks on the button, the message is deleted;
+* When hovering over the message, a button appears. If the user clicks on the button, the message is deleted;
 * This project is responsive to all screen sizes.
 
 ## Link to access the project:
